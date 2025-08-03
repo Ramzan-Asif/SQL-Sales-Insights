@@ -39,9 +39,9 @@ This task helped enhance my skills in writing efficient SQL queries and interpre
 ## 📫 Contact
 
 For suggestions, feedback, or collaboration:
-- **LinkedIn:** (Linkedin)[linkedin.com/in/Ramzan-Asif/]
-- **GitHub:** (Github)[github.com/Ramzan-Asif/]
+- **LinkedIn:** [Linkedin](linkedin.com/in/Ramzan-Asif/)
+- **GitHub:** [Github](github.com/Ramzan-Asif/)
 
 ---
 
-Thanks to (Elevvo Pathways)[linkedin.com/company/elevvopaths/] for this insightful experience!
+Thanks to [Elevvo Pathways](linkedin.com/company/elevvopaths/) for this insightful experience!
